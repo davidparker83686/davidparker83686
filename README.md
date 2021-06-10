@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 Pronouns:
+He,Him
+
+📫 How to reach me:
+www.linkedin.com/in/david-parker-software-dev
+davidjparker91@gmail.com
